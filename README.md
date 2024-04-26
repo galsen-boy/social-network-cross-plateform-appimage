@@ -1,0 +1,2 @@
+# social-network-cross-platform-appimage
+
